@@ -2,5 +2,10 @@
 src = "src"
 out = "out"
 libs = ["lib"]
+remappings = ["@chainlink/contracts/=lib/chainlink-brownie-contracts/contracts/"]
+ffi = true
+
+# there doesn't seem to be an issue, but "updated" alternate from youtube:
+# remappings = ["@chainlink/contracts/=lib/foundry-starter-kit/lib/chainlink-brownie-contracts/contracts/"]
 
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
