@@ -1,5 +1,14 @@
-7/17/23 - Lesson 7 Foundry FundMe
-What's left in project:
+foundry-fund-me-f23
+
+# About
+
+This is a crowdfunding application
+
+# Getting Started
+
+## Requirements
+
+## Quickstart
 
 1. Proper README
 2. Integration Tests
